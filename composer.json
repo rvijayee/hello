@@ -1,0 +1,15 @@
+{
+    "name": "rvijayee/ehello",
+    "description": "test",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Vijaya Kumar Rajangam",
+            "email": "vijay.rajangam@flyingstars.co"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"rvijayee\\HelloWorld\\": "src/"}
+    },
+    "require": {}
+}
