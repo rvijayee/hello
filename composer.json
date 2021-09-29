@@ -8,6 +8,8 @@
             "email": "vijay.rajangam@flyingstars.co"
         }
     ],
+    "minimum-stability": "stable",
+
     "autoload": {
         "psr-4": {"rvijayee\\HelloWorld\\": "src/"}
     },
